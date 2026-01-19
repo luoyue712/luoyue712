@@ -1,24 +1,14 @@
 # 你好，我是落月
 
-欢迎来到我的 GitHub 主页！这里是关于我的一些基本信息和统计。
+只是一个社畜，没什么可看的...
 
 ## 统计数据
 
 <div align="center">
-  <a href="https://github.com/lvluoyue">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=lvluoyue&show_icons=true&locale=cn" />
+  <a href="https://github.com/luoyue712">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=luoyue712&include_all_commits=true&show_icons=true&locale=cn" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvluoyue&layout=compact&langs_count=8&card_width=320&locale=cn" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=luoyue712&layout=compact&langs_count=8&card_width=320&locale=cn" />
   </a>
 </div>
-
-## 技能展示
-
-- **编程语言**: PHP, Java, JavaScript, TypeScript
-- **开发框架**: Spring Boot, Vue, Webman
-- **工具**: Git, Docker, Jmeter
-
-## 关于我
-
-我是一名热爱技术的开发者，专注于后端开发和全栈开发。喜欢挑战新技术并将其应用到实际项目中。如果有任何合作或交流的机会，欢迎联系我！
